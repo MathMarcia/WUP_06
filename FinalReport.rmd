@@ -160,5 +160,7 @@ The only thing that is different is white race and black race . More data makes 
 # Discussion and Conclusion
 
 
-The big difference is the more data side the more data we get. when we look at the the more data the difference is very clear in regards to black and white.These two races have strong data that allows us to see how they differe from each other. 
+The big difference is the more data side the more data we get. when we look at the the more data the difference is very clear in regards to black and white.These two races have strong data that allows us to see how they differ from each other.
+
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
