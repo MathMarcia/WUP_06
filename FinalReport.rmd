@@ -62,9 +62,13 @@ The white race is in favor of capitol punishment and black race is opposed to it
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
-
-
+This numerical data shows that there is an even amount of participants. White , black and other have different opinion on capitol punishment. whites in favor are 65.10, black in favor are 42.63and other 55.20. opposed are whites 34.90, black 57.37, and other 44.80.  
 ## Now with More data
 
 
