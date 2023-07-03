@@ -49,7 +49,7 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
-The results are very similar with White race in favor of capitol punishment and black race opposed. The other race are more in favor of capitol punishment but not as much as white race in the % box plot. 
+The results are very similar with White race in favor of capitol punishment and black race opposed. The other race are more in favor of capitol punishment but not as much as white race in the % box plot. all the races are very different.
 
 ## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
