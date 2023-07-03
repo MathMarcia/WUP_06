@@ -79,7 +79,7 @@ In the numerical data the white race is in favor 67.75opposed 32.25, black race 
 chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
-````
+```
 
 
 The P Value is 7.704e-05. here we have more participant, and it is two.side.
