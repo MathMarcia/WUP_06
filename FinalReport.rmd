@@ -151,7 +151,7 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 
 ```
 ```{r}
-fisherXY(mydata$race,mydata$cappun)
+fisherXY(mydata$race,mydata$cappu,printALL = TRUE)
 ```
 
 
