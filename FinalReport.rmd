@@ -165,7 +165,7 @@ White and other are statistical different. 1 in 1/2 you get this type results. E
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Today we learned 
+Today we learned how to work with 2 branches first we went into the master branch and then we worked on the 2nd branch. I learned that the more participants the more data we get. The less participants the p value is much lower. 
 
 
 
