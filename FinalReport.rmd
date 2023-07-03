@@ -50,6 +50,8 @@ barchartGC(~race + cappun,data=mydata)
 barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
+
+
 The white race is in favor of capitol punishment and black race is opposed to it, and the other aren't for it as the white race are. color blue represents the white race and the color beige represent blacks race who opposed to capitol punishment. 
 
 ## Now with The Most data (fewer variables gives more data points)
